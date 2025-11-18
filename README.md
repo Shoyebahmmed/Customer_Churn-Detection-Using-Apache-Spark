@@ -28,7 +28,7 @@ This repository is structured such that documentation, sample data, and prototyp
 ```text
 project-root/
 ├── churn_data.csv
-├── churn_prediction.py
+├── churn_prediction.ipynb
 ├── architecture.png
 ├── README.md
 ```
