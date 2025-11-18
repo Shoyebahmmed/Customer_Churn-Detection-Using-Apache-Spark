@@ -31,7 +31,6 @@ project-root/
 ├── churn_prediction.py
 ├── architecture.png
 ├── README.md
-└── requirements.txt
 ```
 
 ## 4. System Architecture 
